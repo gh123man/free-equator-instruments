@@ -18,6 +18,8 @@ Go to the releases tab and download the instrument you want. The release zip inc
 | ---------- | ---------- | -------- | ----- |
 | Alto Sax   |  TBD       | TBD      | Inspired by and modeled to behave as close as possible to the SWAM alto sax seen in ROli's ads |
 
+# FAQ
+
 Where are the samples? 
 > The samples are not checked into the git repo as they take up a lot of space and are not text files. The samples will be bundled in the release you download. 
 
