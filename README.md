@@ -1,8 +1,8 @@
 # Instruments
 
-| Instrument | Sample     | Download | Notes |
+| Instrument | Preview    | Download | Notes |
 | ---------- | ---------- | -------- | ----- |
-| Alto Sax   |  TBD       | TBD      | Inspired by and modeled to behave as close as possible to the SWAM alto sax seen in ROli's ads |
+| Alto Sax   |  TBD       | [Alto_Sax.zip](https://github.com/gh123man/free-equator-instruments/releases/download/Sax-v1/Alto_Sax.zip)      | Inspired by and modeled to behave as close as possible to the SWAM alto sax seen in ROli's ads |
 
 # About
 
