@@ -1,8 +1,14 @@
+# Instruments
+
+| Instrument | Sample     | Download | Notes |
+| ---------- | ---------- | -------- | ----- |
+| Alto Sax   |  TBD       | TBD      | Inspired by and modeled to behave as close as possible to the SWAM alto sax seen in ROli's ads |
+
 # About
 
 This repo is designed to be a collection of realistic MPE instruments for Roli Equator often based on custom royalty free samples of actual instruments. [Roli advertises their products](https://www.youtube.com/watch?v=IKSplgK5IEg) using "Actual" instrument sounds that end up being very expensive. I was disappointed to realize this and want to create a free solution. 
 
-# Prerequisite 
+# Prerequisites
 
 The FULL version of Roli Equator. Equator player is unsupported. 
 
@@ -11,12 +17,6 @@ These instructions assume you are using a mac. Windows should work fine but it h
 # Installation 
 
 Go to the releases tab and download the instrument you want. The release zip includes its own installation instructions. 
-
-# Collection
-
-| Instrument | Sample     | Download | Notes |
-| ---------- | ---------- | -------- | ----- |
-| Alto Sax   |  TBD       | TBD      | Inspired by and modeled to behave as close as possible to the SWAM alto sax seen in ROli's ads |
 
 # FAQ
 
